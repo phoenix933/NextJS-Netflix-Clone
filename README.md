@@ -226,7 +226,7 @@ To be able to use this react app locally in a development environment you will n
 
 ```cmd
 # Clone this repository
-git clone https://github.com/AhmedTohamy01/NextJS-Netflix-Clone
+git clone https://github.com/crashdev226/NextJS-Netflix-Clone
 
 # Go into the repository
 cd NextJS-Netflix-Clone
